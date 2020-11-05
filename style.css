@@ -1,0 +1,21 @@
+body
+{
+    font-family: sans-serif;
+}
+span
+{
+    font-weight: bold;
+}
+
+.inicial
+{
+    list-style-type: circle;
+}
+.primer
+{
+    list-style-type: upper-roman;
+}
+.segundo
+{
+    list-style-type: lower-alpha;
+}
